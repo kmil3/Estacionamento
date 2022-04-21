@@ -1,0 +1,49 @@
+.container2{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.login{
+    padding: 5px;
+    width: 350px;
+    background-color: #83c5be;
+    color: white;
+}
+
+.form {
+    margin: 15px;
+    padding: 15px;
+}
+
+.form-group{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+}
+
+.navbar{
+    background-color: #83c5be;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+}
+
+.btn{
+    align-items: flex-end;
+}
+#info{
+    background-color:#83c5be ;
+}
+#info h1{
+    font-size: 20px;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+}
